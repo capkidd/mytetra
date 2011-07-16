@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="1"/>
+ <content>
+  <node crypt="1" id="1" name="Mr3IHsw5MZ8cn50Lot5HX7m1LKdLNZiCKm1XzcjW0pQ=">
+   <recordtable>
+    <record dir="0000000001" crypt="1" url="" tags="k9cAxZTI42DIFVh33w5Ed7rr3iYkPI9PREL2LLwc22s=" author="" id="1" ctime="20081210124656" name="UWneWc2wSCH6GezCY4OmeK6Q4EPG39NtiuommgJ7JU3oofwfDHd79Q==" file="text.html"/>
+   </recordtable>
+  </node>
+ </content>
+</root>
